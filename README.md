@@ -13,7 +13,7 @@
 
 # Objetivos do projeto:
 
-Diante dos problemas quanto ao transporte ofertado pela prefeitura de Euclides da Cunha para com os alunos do IFBa, entre eles: Ônibus cheios, expondo os docentes ao risco, além da não priorização daqueles que moram em povoados, levando-os a saírem mais cedo e perderem tempo de aula, urge que nós, alunos do curso de tecnologia da informação (TI), por meio do conceitos aprendidos em Java, confeccionamos um aplicativo desktop, o qual contribua efetivamente para organização e melhor desempenho do processo efetuado pelo ônibus, contribuindo positivamente para os alunos de Euclides.
+Diante dos problemas apresentados quanto à utilização do transporte ofertado pela prefeitura de Euclides da Cunha, espera-se que, com o projeto de estruturação da dinâmica do transporte do IFBa, os discentes que residem nas áreas rurais e povoados do município possam usufruir de uma melhor organização no que se refere à divisão de ônibus e horários. Tal projeto visa estabelecer prioridade para os alunos que realizam o processo de baldeação, para que não se faça necessário perder tempo de aula para conseguir vaga no ônibus. Tal controle de prioridade será feito por meio de um aplicativo desktop, que reunirá dados refrentes à nome, turma e localidade desses alunos e indicará o horário e qual ônibus deverá utilizar, validando sua vaga. 
 
 # Tópicos a serem discutidos:
 
@@ -25,10 +25,11 @@ Diante dos problemas quanto ao transporte ofertado pela prefeitura de Euclides d
 
 # Ações a serem realizadas:
 - Definir horário de saída das primeiras e segundas viagens.
--  Definir limite de capacidade em cada veículo.
--  Criar carteirinhas para os estudantes (Nome, RG, localidade, e o ônibus que irá utilizar: 1 ou 2)
--  Permitir que os estudantes forneçam seus dados.
--  Selecionar e agrupar em uma lista, os RGs referentes aos estudantes residentes nos povoados
--  Definir a viagem 1 dos 2 ônibus como preferencial aos estudantes de povoado.
--  Dividir os estudantes entre os dois automóveis, criar listas fixas de RGs para cada 1a viagem em cada ônibus.
--  Verificar se o RG fornecido pelo estudante  está inserido na lista preferencial, permitindo a entrada no onibus, apenas aos que estiverem na lista de prioridade.
+- Definir limite de capacidade em cada veículo.
+- Criar carteirinhas para os estudantes residentes de povoados e/ou áreas rurais que fazem o processo de baldeação, com os seguintes dados: Nome, RG, localidade, e o ônibus que irá utilizar: 1 ou 2;
+- Definir a viagem 1, dos 2 ônibus, como preferencial aos estudantes de povoado.
+- Criar listas fixas de RGs para cada 1a viagem em cada ônibus.
+- Verificar se o RG fornecido pelo estudante está inserido na lista preferencial, permitindo a entrada, no primeiro momento, daqueles que estiverem na lista de prioridade.
+
+# Observações: 
+Em 26/05/22 foram realizadas alterações na descrição do projeto, visto que, tornamos o objetivo mais específico, bem como as ações realizadas, que agora são destinadas à validação de carteirinhas apenas para os discentes que residem em áreas rurais/povoados e que por este motivo, necessitam utilizar mais de um transporte. 
