@@ -29,7 +29,7 @@ Diante dos problemas apresentados quanto à utilização do transporte ofertado 
 - Criar carteirinhas para os estudantes residentes de povoados e/ou áreas rurais que fazem o processo de baldeação, com os seguintes dados: Nome, Matrícula, localidade, e o ônibus que irá utilizar: 1 ou 2;
 - Definir a viagem 1, dos 2 ônibus, como preferencial aos estudantes de povoado.
 - Criar listas fixas de matrículas para cada 1a viagem em cada ônibus.
-- Verificar se o RG fornecido pelo estudante está inserido na lista preferencial, permitindo a entrada, no primeiro momento, daqueles que estiverem na lista de prioridade.
+- Verificar se a matrícula fornecida pelo estudante está inserido na lista preferencial, permitindo a entrada, no primeiro momento, daqueles que estiverem na lista de prioridade.
 
 # Observações: 
 Em 26/05/22 foram realizadas alterações na descrição do projeto, visto que, tornamos o objetivo mais específico, bem como as ações realizadas, que agora são destinadas à validação de carteirinhas apenas para os discentes que residem em áreas rurais/povoados e que por este motivo, necessitam utilizar mais de um transporte. 
