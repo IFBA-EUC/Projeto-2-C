@@ -26,9 +26,9 @@ Diante dos problemas apresentados quanto à utilização do transporte ofertado 
 # Ações a serem realizadas:
 - Definir horário de saída das primeiras e segundas viagens.
 - Definir limite de capacidade em cada veículo.
-- Criar carteirinhas para os estudantes residentes de povoados e/ou áreas rurais que fazem o processo de baldeação, com os seguintes dados: Nome, RG, localidade, e o ônibus que irá utilizar: 1 ou 2;
+- Criar carteirinhas para os estudantes residentes de povoados e/ou áreas rurais que fazem o processo de baldeação, com os seguintes dados: Nome, Matrícula, localidade, e o ônibus que irá utilizar: 1 ou 2;
 - Definir a viagem 1, dos 2 ônibus, como preferencial aos estudantes de povoado.
-- Criar listas fixas de RGs para cada 1a viagem em cada ônibus.
+- Criar listas fixas de matrículas para cada 1a viagem em cada ônibus.
 - Verificar se o RG fornecido pelo estudante está inserido na lista preferencial, permitindo a entrada, no primeiro momento, daqueles que estiverem na lista de prioridade.
 
 # Observações: 
